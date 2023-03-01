@@ -19,3 +19,9 @@ body{
 {
     font-size: 20px;
 }
+#cabezera{
+    width: 100%;
+}
+#cabezera img{
+    width: 15%;
+}
